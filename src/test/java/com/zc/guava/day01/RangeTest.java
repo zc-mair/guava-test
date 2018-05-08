@@ -72,7 +72,7 @@ public class RangeTest {
         Range d = Range.open(3,5);
 //        System.out.println(b.intersection(d));//java.lang.IllegalArgumentException: Invalid range: (5?5)
 
-        System.out.println(Range.closed(0, 9).span(Range.closed(3, 4)););
+        System.out.println(Range.closed(0, 9).span(Range.closed(3, 4)));
 
     }
 }
