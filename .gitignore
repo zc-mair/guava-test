@@ -1,3 +1,4 @@
 .idea/*
-.gitignoregit
+.gitignore
 guavatest.iml
+target/*
